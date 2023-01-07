@@ -1,0 +1,12 @@
+[package]
+name = "thats-me"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+jpeg-decoder = "0.3.0"
+softbuffer = "0.2.0"
+v4l = "0.13.1"
+winit = "0.28.5"
